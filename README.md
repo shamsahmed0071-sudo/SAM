@@ -27,9 +27,19 @@ Poster
 
 # KPIs (Key Performance Indicators): 
 
+1. Availability Rate: The percentage of time the line was actually running vs. standing still.
+2. Performance Efficiency: Measures if the operator is running the machine at the target speed.
+3. Human Error Impact: The percentage of downtime caused by operator mistakes.
+4. Average Recovery Time: How long it takes, on average, to fix a stop and get back to work.
+
 
 # Metrics for project success:  
- 
+
+1. Gross Production Time: The full time recorded for a single batch (Clock time).
+2. Total Downtime (Lost Minutes): The total minutes lost due to machine stops or delays.
+3. Stop Frequency: A count of how many times the line actually stopped during a batch.
+4. Batch Count: The total number of batches completed by the team.
+
  
  
 # Instructor: 
